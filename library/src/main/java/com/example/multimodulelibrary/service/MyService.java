@@ -14,6 +14,6 @@ public class MyService {
   }
 
   public String message() {
-    return this.ServiceProperties.getMessage();
+    return this.serviceProperties.getMessage();
   }
 }

@@ -7,5 +7,5 @@
 
 rootProject.name = 'crossword-generator'
 
-include 'library'
+include 'spring-representation'
 include 'application'
